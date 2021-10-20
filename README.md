@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sreeja Govardhana. I am starting my MS in Computer Science at Texas A&M University in fall '21. Up until recently, I was working as a software engineer at JP Morgan Chase & Co.
+- 👋 Hi, I’m Sreeja Govardhana. I am a Master's in Computer Science student at Texas A&M University . Up until recently, I was working as a software engineer at JP Morgan Chase & Co.
 - 👀 I’m interested in Building web applications, Machine Learning and it's applications in Health Care 
 - 🌱 I’m currently learning Python, implementing ML algorithms
 - 💞️ I’m looking to collaborate on anything data!
